@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/91/src/progark/a9/screens
+END
+SettingsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/90/src/progark/a9/screens/SettingsScreen.java
+END
+GameScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/src/progark/a9/screens/GameScreen.java
+END
+PlaceShipsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/90/src/progark/a9/screens/PlaceShipsScreen.java
+END
+OptionsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/91/src/progark/a9/screens/OptionsScreen.java
+END
+WaitingScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/76/src/progark/a9/screens/WaitingScreen.java
+END
+IntroScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/88/src/progark/a9/screens/IntroScreen.java
+END
+EnemyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/src/progark/a9/screens/EnemyMap.java
+END
+GameOverScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/src/progark/a9/screens/GameOverScreen.java
+END
